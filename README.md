@@ -51,6 +51,12 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
         <b>LangSim</b>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/pagel-s/agentlabs">
+        <img src="https://github.com/pagel-s/agentlabs/raw/main/thumbnail.png" width="200" alt="agentlabs" /><br/>
+        <b>LangSim</b>
+      </a>
+    </td>
   </tr>
 </table>
 
