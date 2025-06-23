@@ -39,7 +39,7 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
     </td>
     <td align="center">
       <a href="https://github.com/croningp/molnca">
-        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/nca.gif" width="200" />
+        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/nca.gif" width="200" alt="MolNCA" /><br/>
         <b>MolNCA</b>
       </a>
     </td>
