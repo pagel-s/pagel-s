@@ -53,8 +53,24 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
     </td>
     <td align="center">
       <a href="https://github.com/pagel-s/agentlabs">
-        <img src="https://github.com/pagel-s/agentlabs/raw/main/thumbnail.png" width="200" alt="agentlabs" /><br/>
+        <img src="https://github.com/pagel-s/agentlabs/raw/main/thumbnail.png" width="200" alt="AgentLabs" /><br/>
         <b>AgentLabs</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pagel-s/spalt">
+        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/spalt.png" width="200" alt="Spalt" /><br/>
+        <b>Spalt</b>
+      </a>
+      <br/>
+      <sub><i>Alignment of Ligand Topographies (C++)</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/pagel-s/midas">
+        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/midas.png" width="200" alt="Midas" /><br/>
+        <b>Midas</b>
       </a>
     </td>
   </tr>
