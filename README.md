@@ -23,58 +23,109 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
 
 <div align="center">
 
+
 <table>
   <tr>
-    <td align="center">
+    <td width="220" align="center">
       <a href="https://github.com/croningp/acra">
-        <img src="https://github.com/croningp/acra/raw/main/thumbnail.png" width="200" alt="ACRA" /><br/>
-        <b>ACRA</b>
+        <img src="https://github.com/croningp/acra/raw/main/thumbnail.png" width="200" alt="ACRA"/>
       </a>
     </td>
-    <td align="center">
+    <td align="left">
+      <a href="https://github.com/croningp/acra"><b>ACRA</b></a><br/>
+      Automated Chemical Reaction Analysis.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="220" align="center">
       <a href="https://github.com/croningp/molecular_spaces">
-        <img src="https://github.com/croningp/molecular_spaces/raw/main/thumbnail.png" width="200" alt="Molecular Spaces" /><br/>
-        <b>Molecular Spaces</b>
+        <img src="https://github.com/croningp/molecular_spaces/raw/main/thumbnail.png" width="200" alt="Molecular Spaces"/>
       </a>
     </td>
-    <td align="center">
+    <td align="left">
+      <a href="https://github.com/croningp/molecular_spaces"><b>Molecular Spaces</b></a><br/>
+      Exploration of high-dimensional molecular design spaces.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="220" align="center">
       <a href="https://github.com/croningp/molnca">
-        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/nca.gif" width="200" alt="MolNCA" /><br/>
-        <b>MolNCA</b>
+        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/nca.gif" width="200" alt="MolNCA"/>
       </a>
     </td>
+    <td align="left">
+      <a href="https://github.com/croningp/molnca"><b>MolNCA</b></a><br/>
+      Neural Cellular Automata for molecule generation.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+    </td>
   </tr>
+
   <tr>
-    <td align="center">
+    <td width="220" align="center">
       <a href="https://github.com/jan-janssen/LangSim">
-        <img src="https://github.com/jan-janssen/LangSim/raw/main/thumbnail.png" width="200" alt="LangSim" /><br/>
-        <b>LangSim</b>
+        <img src="https://github.com/jan-janssen/LangSim/raw/main/thumbnail.png" width="200" alt="LangSim"/>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/pagel-s/agentlabs">
-        <img src="https://github.com/pagel-s/agentlabs/raw/main/thumbnail.png" width="200" alt="AgentLabs" /><br/>
-        <b>AgentLabs</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/pagel-s/spalt">
-        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/spalt.png" width="200" alt="Spalt" /><br/>
-        <b>Spalt</b>
-      </a>
-      <br/>
-      <sub><i>Alignment of Ligand Topographies (C++)</i></sub>
+    <td align="left">
+      <a href="https://github.com/jan-janssen/LangSim"><b>LangSim</b></a><br/>
+      Simulation of language dynamics and learning.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
     </td>
   </tr>
+
   <tr>
-    <td align="center">
-      <a href="https://github.com/pagel-s/midas">
-        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/midas.png" width="200" alt="Midas" /><br/>
-        <b>Midas</b>
+    <td width="220" align="center">
+      <a href="https://github.com/pagel-s/agentlabs">
+        <img src="https://github.com/pagel-s/agentlabs/raw/main/thumbnail.png" width="200" alt="AgentLabs"/>
       </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/pagel-s/agentlabs"><b>AgentLabs</b></a><br/>
+      Framework for autonomous lab agents and experimentation.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="220" align="center">
+      <a href="https://github.com/pagel-s/spalt">
+        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/spalt.png" width="200" alt="Spalt"/>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/pagel-s/spalt"><b>Spalt</b></a><br/>
+      Alignment of Ligand Topographies.<br/><br/>
+      <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="220" align="center">
+      <a href="https://github.com/pagel-s/midas">
+        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/midas.png" width="200" alt="Midas"/>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/pagel-s/midas"><b>Midas</b></a><br/>
+      Multi-scale integration for data-driven molecular analysis.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
     </td>
   </tr>
 </table>
+
+</div>
+
 
 </div>
 
