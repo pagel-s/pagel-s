@@ -28,7 +28,7 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
   <tr>
     <td width="220" align="center">
       <a href="https://github.com/croningp/acra">
-        <img src="https://github.com/croningp/acra/raw/main/thumbnail.png" width="200" alt="ACRA"/>
+        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/acra.png" width="200" alt="ACRA"/>
       </a>
     </td>
     <td align="left">
@@ -42,7 +42,7 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
   <tr>
     <td width="220" align="center">
       <a href="https://github.com/croningp/molecular_spaces">
-        <img src="https://github.com/croningp/molecular_spaces/raw/main/thumbnail.png" width="200" alt="Molecular Spaces"/>
+        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/molecularspaces.png" width="200" alt="Molecular Spaces"/>
       </a>
     </td>
     <td align="left">
@@ -70,7 +70,7 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
   <tr>
     <td width="220" align="center">
       <a href="https://github.com/jan-janssen/LangSim">
-        <img src="https://github.com/jan-janssen/LangSim/raw/main/thumbnail.png" width="200" alt="LangSim"/>
+        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/langsim.png" width="200" alt="LangSim"/>
       </a>
     </td>
     <td align="left">
@@ -84,7 +84,7 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
   <tr>
     <td width="220" align="center">
       <a href="https://github.com/pagel-s/agentlabs">
-        <img src="https://github.com/pagel-s/agentlabs/raw/main/thumbnail.png" width="200" alt="AgentLabs"/>
+        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/thumbnail.png" width="200" alt="AgentLabs"/>
       </a>
     </td>
     <td align="left">
