@@ -70,7 +70,7 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
   <tr>
     <td width="220" align="center">
       <a href="https://github.com/jan-janssen/LangSim">
-        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/langsim.png" width="200" alt="LangSim"/>
+        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/langsim.jpg" width="200" alt="LangSim"/>
       </a>
     </td>
     <td align="left">
