@@ -1,10 +1,10 @@
-# Hi there! 👋 I'm Sebastian Pagel
+# Hi there! I'm Sebastian Pagel
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=PhD+Researcher+%7C+Cheminformatics;AI+%26+Machine+Learning+in+Chemistry;Robotic+Synthesis+%26+Automation;LLM+Agentic+Workflows;Quality-Diversity+Algorithms" alt="Typing SVG" />
 </div>
 
-## 🧬 About Me
+## About Me
 
 I'm a PhD researcher at the University of Glasgow, specializing in cheminformatics and AI-driven chemical discovery. My work focuses on bridging computational chemistry with robotic automation to accelerate drug discovery and synthesis. Currently, I'm developing cutting-edge machine learning models and agentic workflows that combine large language models with automated laboratory systems.
 
@@ -131,9 +131,9 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
 
 </br></br>
 <div align="center">
-  <i>🤖 "Bridging the gap between computational chemistry and robotic automation" 🧪</i>
+  <i> "Bridging the gap between computational chemistry and robotic automation" 🧪</i>
   <br><br>
-  <i>⭐ From [pagel-s](https://github.com/pagel-s) | PhD Researcher at University of Glasgow</i>
+  <i> From [pagel-s](https://github.com/pagel-s) | PhD Researcher at University of Glasgow</i>
 </div>
 
 <div align="center">
