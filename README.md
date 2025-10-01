@@ -33,7 +33,7 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
     </td>
     <td align="left">
       <a href="https://github.com/croningp/acra"><b>ACRA</b></a><br/>
-      Automated Chemical Reaction Analysis.<br/><br/>
+      Agentic Workflow of Automated Synthetic Chemistry<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
     </td>
@@ -47,7 +47,7 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
     </td>
     <td align="left">
       <a href="https://github.com/croningp/molecular_spaces"><b>Molecular Spaces</b></a><br/>
-      Exploration of high-dimensional molecular design spaces.<br/><br/>
+      Quantification of selection in chemical spaces and denovo molecular generation using Assembly Theory.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
     </td>
@@ -75,7 +75,7 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
     </td>
     <td align="left">
       <a href="https://github.com/jan-janssen/LangSim"><b>LangSim</b></a><br/>
-      Simulation of language dynamics and learning.<br/><br/>
+      Agentic Language Interface for Materials Simulations.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
     </td>
@@ -103,7 +103,7 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
     </td>
     <td align="left">
       <a href="https://github.com/pagel-s/spalt"><b>Spalt</b></a><br/>
-      Alignment of Ligand Topographies.<br/><br/>
+      Alignment of Ligand Topographies using molecular surface features.<br/><br/>
       <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
     </td>
@@ -117,7 +117,7 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
     </td>
     <td align="left">
       <a href="https://github.com/pagel-s/midas"><b>Midas</b></a><br/>
-      Multi-scale integration for data-driven molecular analysis.<br/><br/>
+      Agentic Interface to language controlled 3D molecular generation and manipulation <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
     </td>
