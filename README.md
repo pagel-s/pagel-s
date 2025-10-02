@@ -23,7 +23,6 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
 
 <div align="center">
 
-
 <table>
   <tr>
     <td width="220" align="center">
@@ -34,6 +33,9 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
     <td align="left">
       <a href="https://github.com/croningp/acra"><b>ACRA</b></a><br/>
       Agentic Workflow of Automated Synthetic Chemistry<br/><br/>
+      <a href="https://arxiv.org/abs/2410.06384">
+        <img src="https://img.shields.io/badge/Paper-arXiv:2410.06384-b31b1b?style=flat-square" />
+      </a>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
     </td>
@@ -48,6 +50,9 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
     <td align="left">
       <a href="https://github.com/croningp/molecular_spaces"><b>Molecular Spaces</b></a><br/>
       Quantification of selection in chemical spaces and denovo molecular generation using Assembly Theory.<br/><br/>
+      <a href="https://arxiv.org/abs/2409.05993">
+        <img src="https://img.shields.io/badge/Paper-arXiv:2409.05993-b31b1b?style=flat-square" />
+      </a>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
     </td>
@@ -62,6 +67,9 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
     <td align="left">
       <a href="https://github.com/croningp/molnca"><b>MolNCA</b></a><br/>
       Neural Cellular Automata for molecule generation.<br/><br/>
+      <a href="https://openreview.net/pdf?id=Il8mRcEiRq">
+        <img src="https://img.shields.io/badge/Paper-OpenReview-b31b1b?style=flat-square" />
+      </a>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
     </td>
@@ -104,6 +112,9 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
     <td align="left">
       <a href="https://github.com/jan-janssen/LangSim"><b>LangSim</b></a><br/>
       Agentic Language Interface for Materials Simulations.<br/><br/>
+      <a href="https://arxiv.org/abs/2411.15221">
+        <img src="https://img.shields.io/badge/Paper-arXiv:2411.15221-b31b1b?style=flat-square" />
+      </a>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
     </td>
@@ -125,6 +136,7 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
 </table>
 
 </div>
+
 
 
 </div>
