@@ -123,7 +123,7 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
   <tr>
     <td width="220" align="center">
       <a href="https://github.com/pagel-s/agentlabs">
-        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/thumbnail.png" width="200" alt="AgentLabs"/>
+        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/agentlabs.png" width="200" alt="AgentLabs"/>
       </a>
     </td>
     <td align="left">
