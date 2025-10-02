@@ -69,34 +69,6 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
 
   <tr>
     <td width="220" align="center">
-      <a href="https://github.com/jan-janssen/LangSim">
-        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/langsim.jpg" width="200" alt="LangSim"/>
-      </a>
-    </td>
-    <td align="left">
-      <a href="https://github.com/jan-janssen/LangSim"><b>LangSim</b></a><br/>
-      Agentic Language Interface for Materials Simulations.<br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
-    </td>
-  </tr>
-
-  <tr>
-    <td width="220" align="center">
-      <a href="https://github.com/pagel-s/agentlabs">
-        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/thumbnail.png" width="200" alt="AgentLabs"/>
-      </a>
-    </td>
-    <td align="left">
-      <a href="https://github.com/pagel-s/agentlabs"><b>AgentLabs</b></a><br/>
-      Framework for autonomous lab agents and experimentation.<br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
-    </td>
-  </tr>
-
-  <tr>
-    <td width="220" align="center">
       <a href="https://github.com/pagel-s/spalt">
         <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/spalt.png" width="200" alt="Spalt"/>
       </a>
@@ -118,6 +90,34 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
     <td align="left">
       <a href="https://github.com/pagel-s/midas"><b>Midas</b></a><br/>
       Agentic Interface to language controlled 3D molecular generation and manipulation <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="220" align="center">
+      <a href="https://github.com/jan-janssen/LangSim">
+        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/langsim.jpg" width="200" alt="LangSim"/>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/jan-janssen/LangSim"><b>LangSim</b></a><br/>
+      Agentic Language Interface for Materials Simulations.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="220" align="center">
+      <a href="https://github.com/pagel-s/agentlabs">
+        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/thumbnail.png" width="200" alt="AgentLabs"/>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/pagel-s/agentlabs"><b>AgentLabs</b></a><br/>
+      Framework for autonomous lab agents and experimentation.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
     </td>
