@@ -143,9 +143,9 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
 
 </br></br>
 <div align="center">
-  <i> "Bridging the gap between computational chemistry and robotic automation" 🧪</i>
-  <br><br>
-  <i> From [pagel-s](https://github.com/pagel-s) | PhD Researcher at University of Glasgow</i>
+  <i>
+    From <a href="https://github.com/pagel-s" target="_blank">pagel-s</a> | PhD Researcher at University of Glasgow
+  </i>
 </div>
 
 <div align="center">
