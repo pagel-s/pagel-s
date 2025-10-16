@@ -95,7 +95,7 @@ I'm a PhD researcher at the University of Glasgow, specializing in cheminformati
     </td>
     <td align="left">
       <a href="https://github.com/pagel-s/molgrep"><b>molgrep</b></a><br/>
-      CLI SMARTS based molecule retrievalfor <br/><br/>
+      CLI SMARTS based molecule retrieval <br/><br/>
       <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
     </td>
