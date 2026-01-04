@@ -194,6 +194,15 @@ My work focuses on the development of **robust computational methods and scienti
 </div>
 
 </br></br>
+
+---
+
+## Contact
+
+- GitHub: https://github.com/pagel-s
+- Google Scholar: https://scholar.google.com/citations?hl=en&user=cq0VR8wAAAAJ
+- LinkedIn: https://www.linkedin.com/in/sebastian-pagel-5a0b71148/
+
 <div align="center">
   <i>
     From <a href="https://github.com/pagel-s" target="_blank">pagel-s</a> | PhD Researcher at University of Glasgow
