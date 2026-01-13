@@ -126,8 +126,8 @@ My work focuses on the development of **robust computational methods and scienti
   <tr>
     <td width="220" align="center">
       <a href="https://arxiv.org/abs/2408.09171">
-        https://github.com/user-attachments/assets/56f085b8-2dac-405b-90fa-28556664d904
-      </a>
+          <img src="https://github.com/user-attachments/assets/56f085b8-2dac-405b-90fa-28556664d904" width="100%" alt="Chemputation Concept" />
+        </a>
     </td>
     <td align="left">
       <a href="https://github.com/croningp/chemputation/"><b>Chemputation</b></a><br/>
