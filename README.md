@@ -125,6 +125,23 @@ My work focuses on the development of **robust computational methods and scienti
 
   <tr>
     <td width="220" align="center">
+      <a href="https://arxiv.org/abs/2408.09171">
+        https://github.com/user-attachments/assets/56f085b8-2dac-405b-90fa-28556664d904
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/croningp/chemputation/"><b>Chemputation</b></a><br/>
+      Quantification of selection in chemical spaces and denovo molecular generation using Assembly Theory.<br/><br/>
+      <a href="https://arxiv.org/abs/2408.09171">
+        <img src="https://img.shields.io/badge/Paper-arXiv:2408.09171-b31b1b?style=flat-square" />
+      </a>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="220" align="center">
       <a href="https://github.com/pagel-s/molgrep">
         <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/molgrep.png" width="200" alt="MolNCA"/>
       </a>
