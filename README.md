@@ -108,7 +108,7 @@ My work focuses on the development of **robust computational methods and scienti
 
   <tr>
     <td width="220" align="center">
-      <a href="https://arxiv.org/abs/2409.05993">
+      <a href="https://github.com/croningp/molecular_spaces">
         <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/molecularspaces.png" width="200" alt="Molecular Spaces"/>
       </a>
     </td>
