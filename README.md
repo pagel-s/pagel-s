@@ -1,26 +1,51 @@
 # Sebastian Pagel
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Cheminformatics+and+Computational+Chemistry;Machine+Learning+for+Molecular+Design;Scientific+Software+and+Automation;Agentic+Systems+for+Chemical+Discovery" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=LLM+Agent+Systems+for+Scientific+Discovery;AI+for+Chemistry+%26+Drug+Design;Multi-Agent+Workflows+%7C+RAG+%7C+Tool-Use;Bridging+Language+Models+and+Real-World+Science" alt="Typing SVG" />
 </div>
 
 ---
 
 ## About
 
-I am a computational chemist and PhD researcher at the University of Glasgow working at the intersection of cheminformatics, machine learning, and automated chemical discovery.
+I am a computational chemist and AI researcher at the University of Glasgow working at the intersection of **machine learning, large language models, and chemical discovery**.
 
-My work focuses on the development of **robust computational methods and scientific software** that connect molecular design, data-driven modeling, and experimental workflows. I am particularly interested in integrating modern machine learning approaches—including generative models and language-model-based agents—into practical chemical discovery pipelines that are reproducible, interpretable, and usable by multidisciplinary teams.
+My work focuses on building **autonomous, agent-based systems** that integrate retrieval, reasoning, and tool-use to solve complex scientific problems. I design and deploy AI systems that connect:
+
+- **Unstructured knowledge** (scientific literature)
+- **Structured workflows** (molecular design, synthesis, experimentation)
+
+I am particularly interested in:
+- **LLM-driven reasoning and multi-agent systems**
+- **Generative models for molecular design**
+- **End-to-end AI pipelines for real-world discovery**
+- **Bridging AI systems with experimental and robotic platforms**
+
+---
+
+##  Highlighted Systems
+
+- **ACRA — Autonomous Chemical Reasoning Agent**  
+  Multi-agent LLM system translating scientific literature into executable synthesis workflows  
+  → RAG + planning + tool-use + self-correction  
+
+- **MIDAS**  
+  Language-controlled 3D molecular generation with spatial reasoning  
+  → LLMs interacting directly with molecular representations  
+
+- **LangSim**  
+  Agent-based framework for automated materials discovery  
+  → Orchestrates multi-step scientific workflows  
 
 ---
 
 ## Research Interests
 
-- Cheminformatics and molecular representation  
-- Ligand- and structure-based drug design  
+- LLMs and **agent-based systems for scientific reasoning**  
 - Machine learning for molecular generation and property prediction  
-- Autonomous and agent-based chemical systems  
-- Scientific software engineering and data pipelines  
+- Chemical space exploration and drug design (LBDD / SBDD)  
+- Autonomous and closed-loop discovery systems  
+- Scientific software, data pipelines, and reproducibility  
 
 ---
 
@@ -37,12 +62,16 @@ My work focuses on the development of **robust computational methods and scienti
 </details>
 
 <details>
-<summary><strong>Machine Learning</strong></summary>
+<summary><strong>Machine Learning & AI Systems</strong></summary>
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAX-00B4D8?style=flat"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
 </p>
+
+- Multi-agent LLM systems (ReAct, tool-use, planning)  
+- Retrieval-Augmented Generation (RAG), vector databases  
+- LLM evaluation and self-correction (LLM-as-a-judge)  
 </details>
 
 <details>
@@ -53,13 +82,48 @@ My work focuses on the development of **robust computational methods and scienti
   <img src="https://img.shields.io/badge/AMBER-8E44AD?style=flat"/>
   <img src="https://img.shields.io/badge/XTB-607D8B?style=flat"/>
 </p>
+
+- Ligand- and structure-based drug design  
+- Molecular dynamics and simulation  
+- Chemical dataset curation and analysis  
 </details>
+
 
 ## Selected Projects and Publications
 
 <div align="center">
 
 <table>
+  <tr>
+    <td width="220" align="center">
+      <a href="https://github.com/pagel-s/midas">
+        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/midas.png" width="200" alt="Midas"/>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/pagel-s/midas"><b>Midas</b></a><br/>
+      Agentic interface for language-controlled 3D molecular generation and manipulation <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="220" align="center">
+      <a href="https://github.com/croningp/acra">
+        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/acra.png" width="200" alt="ACRA"/>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://arxiv.org/abs/2410.06384"><b>ACRA</b></a><br/>
+      Multi-agent LLM workflow for automated synthesis planning and execution from scientific literature<br/><br/>
+      <a href="https://arxiv.org/abs/2410.06384">
+        <img src="https://img.shields.io/badge/Paper-arXiv:2410.06384-b31b1b?style=flat-square" />
+      </a>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+    </td>
+  </tr>
 
   <tr>
     <td width="220" align="center">
@@ -75,36 +139,6 @@ My work focuses on the development of **robust computational methods and scienti
     </td>
   </tr>
 
-  <tr>
-    <td width="220" align="center">
-      <a href="https://github.com/pagel-s/midas">
-        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/midas.png" width="200" alt="Midas"/>
-      </a>
-    </td>
-    <td align="left">
-      <a href="https://github.com/pagel-s/midas"><b>Midas</b></a><br/>
-      Agentic Interface to language controlled 3D molecular generation and manipulation <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
-    </td>
-  </tr>
-
-  <tr>
-    <td width="220" align="center">
-      <a href="https://github.com/croningp/acra">
-        <img src="https://raw.githubusercontent.com/pagel-s/pagel-s/main/assets/acra.png" width="200" alt="ACRA"/>
-      </a>
-    </td>
-    <td align="left">
-      <a href="https://arxiv.org/abs/2410.06384"><b>ACRA</b></a><br/>
-      Agentic Workflow of Automated Synthetic Chemistry<br/><br/>
-      <a href="https://arxiv.org/abs/2410.06384">
-        <img src="https://img.shields.io/badge/Paper-arXiv:2410.06384-b31b1b?style=flat-square" />
-      </a>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
-    </td>
-  </tr>
 
   <tr>
     <td width="220" align="center">
@@ -180,7 +214,7 @@ My work focuses on the development of **robust computational methods and scienti
     </td>
     <td align="left">
       <a href="https://github.com/jan-janssen/LangSim"><b>LangSim</b></a><br/>
-      Agentic Language Interface for Materials Simulations.<br/><br/>
+       LLM-driven agent framework for orchestrating materials simulation workflows<br/><br/>
       <a href="https://arxiv.org/abs/2411.15221">
         <img src="https://img.shields.io/badge/Paper-arXiv:2411.15221-b31b1b?style=flat-square" />
       </a>
