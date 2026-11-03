@@ -17,7 +17,5 @@ and uncertainty-aware compound selection.
 
 - [Hugging Face Accelerate](https://github.com/huggingface/accelerate) — Reduced CPU memory usage during FSDP2 model loading with mixed precision ([merged PR #4369](https://github.com/huggingface/accelerate/pull/4369)).
 
-Core tools: Python, C++, Rust, PyTorch and RDKit.
-
 [Publications](https://scholar.google.com/citations?user=cq0VR8wAAAAJ)
 · [LinkedIn](https://www.linkedin.com/in/sebastian-pagel-5a0b71148/)
